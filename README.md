@@ -1,6 +1,6 @@
 # Meme Generator
 
-A command-line and web application that generates random star wars and/or custom memes.
+A command-line and web application that generates random Dragon ball z and/or custom memes.
 
 ## Getting Started
 
